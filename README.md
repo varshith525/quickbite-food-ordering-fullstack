@@ -87,43 +87,43 @@ npm start
 
 ## 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](./screenshots/home.png)
 
 ---
 
 ## 🍔 Food Items Page
 
-![Food Items](screenshots/items.png)
+![Food Items](./screenshots/items.png)
 
 ---
 
 ## 🔐 Login & Signup
 
-![Login](screenshots/login.png)
+![Login](./screenshots/login.png)
 
 ---
 
 ## 🛒 Cart Page
 
-![Cart](screenshots/cart.png)
+![Cart](./screenshots/cart.png)
 
 ---
 
 ## 💳 Payment Page
 
-![Payment](screenshots/payment.png)
+![Payment](./screenshots/payment.png)
 
 ---
 
 ## 🙏 Order Success Page
 
-![Thank You](screenshots/thanking.png)
+![Thank You](./screenshots/thanking.png)
 
 ---
 
 ## 🗄️ MongoDB User Storage
 
-![MongoDB Users](screenshots/mongodb-users.png)
+![MongoDB Users](./screenshots/mongodb-users.png)
 
 ---
 
