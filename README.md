@@ -87,43 +87,43 @@ npm start
 
 ## 🏠 Home Page
 
-![Home Page](./QuickBite-website-master%202/screenshots/Home%20Page.png)
+![Home Page](QuickBite-website-master%202/screenshots/Home%20Page.png)
 
 ---
 
 ## 🍔 Food Items Page
 
-![Food Items](./QuickBite-website-master%202/screenshots/Food%20Items%20Page.png)
+![Food Items](QuickBite-website-master%202/screenshots/Food%20Items%20Page.png)
 
 ---
 
 ## 🔐 Login & Signup
 
-![Login](./QuickBite-website-master%202/screenshots/Login%20&%20Signup.png)
+![Login](QuickBite-website-master%202/screenshots/Login%20&%20Signup.png)
 
 ---
 
 ## 🛒 Cart Page
 
-![Cart](./QuickBite-website-master%202/screenshots/Cart%20Page.png)
+![Cart](QuickBite-website-master%202/screenshots/Cart%20Page.png)
 
 ---
 
 ## 💳 Payment Page
 
-![Payment](./QuickBite-website-master%202/screenshots/Payment%20Page.png)
+![Payment](QuickBite-website-master%202/screenshots/Payment%20Page.png)
 
 ---
 
 ## 🙏 Order Success Page
 
-![Thank You](./QuickBite-website-master%202/screenshots/Order%20Success%20Page.png)
+![Thank You](QuickBite-website-master%202/screenshots/Order%20Success%20Page.png)
 
 ---
 
 ## 🗄️ MongoDB User Storage
 
-![MongoDB Users](./QuickBite-website-master%202/screenshots/MongoDB%20User%20Storage.png)
+![MongoDB Users](QuickBite-website-master%202/screenshots/MongoDB%20User%20Storage.png)
 
 ---
 
