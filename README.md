@@ -1,9 +1,10 @@
-````md id="readme001"
 # QuickBite 🍕 - Full Stack Food Ordering Website
 
 QuickBite is a modern full-stack food ordering web application that allows users to browse restaurants, explore food items, sign up/login, add items to cart, and place orders seamlessly.
 
-## 🚀 Live Demo
+---
+
+# 🚀 Live Demo
 
 🌐 Frontend Live Website:  
 https://quickbite-varshith.netlify.app/
@@ -50,7 +51,7 @@ quickbite-food-ordering-fullstack/
 ├── frontend/
 │
 └── backend/
-````
+```
 
 ---
 
@@ -84,22 +85,45 @@ npm start
 
 # 🌟 Screenshots
 
-## Home Page
+## 🏠 Home Page
 
-* Modern landing page
-* Food gallery
-* Customer reviews
+![Home Page](screenshots/home.png)
 
-## Food Ordering Page
+---
 
-* Restaurant listings
-* Food cards
-* Cart functionality
+## 🍔 Food Items Page
 
-## Authentication
+![Food Items](screenshots/items.png)
 
-* Signup/Login integration
-* MongoDB user storage
+---
+
+## 🔐 Login & Signup
+
+![Login](screenshots/login.png)
+
+---
+
+## 🛒 Cart Page
+
+![Cart](screenshots/cart.png)
+
+---
+
+## 💳 Payment Page
+
+![Payment](screenshots/payment.png)
+
+---
+
+## 🙏 Order Success Page
+
+![Thank You](screenshots/thanking.png)
+
+---
+
+## 🗄️ MongoDB User Storage
+
+![MongoDB Users](screenshots/mongodb-users.png)
 
 ---
 
@@ -119,14 +143,11 @@ Node.js + Express backend connected with MongoDB Atlas
 
 Bupana Varshith
 
-GitHub:
-[https://github.com/varshith525](https://github.com/varshith525)
+GitHub:  
+https://github.com/varshith525
 
 ---
 
 # 📄 License
 
 This project is created for educational and portfolio purposes.
-
-```
-```
